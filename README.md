@@ -105,5 +105,5 @@ docker-compose up
 ## Detailed Steps
 
 For a step-by-step guide on how to build and deploy this project, check out my blog post:  
-👉 [Real-Time Polling System: Step-by-Step Guide](https://your-blog-link.com)
+👉 [Real-Time Polling System: Step-by-Step Guide](https://wynntech.me/index.php/2025/03/01/how-to-build-a-real-time-polling-system-with-websockets-react-spring-boot/)
 
